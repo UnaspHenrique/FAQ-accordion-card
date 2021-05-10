@@ -250,21 +250,3 @@
         margin: 0 20px 0 0;
     }
 }
-
-@media screen and (max-width: 1770px) {
-    .imgBox {
-        display: none;
-    }
-    .imgOne {
-        display: none;
-    }
-    .imgTwo {
-        display: none;
-    }
-
-    .container {
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-    }
-}
